@@ -1,2 +1,2 @@
-<img src="/Loop Assignment/q1.png alt"" />
-<img src="/Loop Assignment/q2.png alt"" />
+<img src="q1.png alt"" />
+<img src="q2.png alt"" />
