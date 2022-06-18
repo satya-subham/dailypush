@@ -1,1 +1,0 @@
-<img src="/Loop Assignment/q1.png />
