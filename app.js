@@ -1,6 +1,6 @@
 let sum  = 0;
-let a = 2;
-let b = 3;
+let a = 1;
+let b = 20;
 for(let i=a; i<=b; i++){
     sum = sum+i;
 }
