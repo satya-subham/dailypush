@@ -1,11 +1,9 @@
-let number = 407;
-let firstDigit = Math.floor(number/100);
-let secondDigit = Math.floor((number%100)/10);
-let lastDigit = ((number%100)%10);
-if(firstDigit**3 + secondDigit**3 + lastDigit**3 == number){
-    console.log("It's an armstrong number");
-}else{
-    console.log("it's not an armstrong number");
+let number1 = 2;
+let number2 = 10;
+let product = 1;
+for(i = number1; i <= number2; i++){
+    let secondlastDigit = i % 10;
+    if(i%2 == 0 && secondlastDigit == 4)
+    product = product * i;
 }
-
-
+console.log(product);
